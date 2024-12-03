@@ -1,5 +1,13 @@
 # Análise exploratória dos dados sobre o impacto nas taxas de suicídio.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF9E3F?style=flat-square&logo=seaborn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+
+
 Este repositório contém o código do Kaggle. Para mais detalhes, leia o [artigo no Medium]([https://link-para-o-artigo.medium.com](https://medium.com/@giselemeliobr/eu-quero-nascer-eu-quero-viver-4d32b5bb914b)).
 
 Este repositório contém o código e a análise exploratória dos dados relacionados ao impacto das redes sociais nas taxas de suicídio. A análise é baseada em um conjunto de dados real que busca entender as possíveis correlações entre o uso das redes sociais e o aumento das taxas de suicídio.
